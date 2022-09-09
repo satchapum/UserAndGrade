@@ -28,10 +28,10 @@ public class Program {
         int UserRunNumber = 0;
 
         while(UserRunNumber < 8) {
-            string Name = InputName();
-            string Surname = InputSurname();
-            string NumberID = InputNumberID();
-            float Grade = InputGrade();
+            string Name = InputName(UserRunNumber);
+            string Surname = InputSurname(UserRunNumber);
+            string NumberID = InputNumberID(UserRunNumber);
+            float Grade = InputGrade(UserRunNumber);
             UserInfo[UserRunNumber] = new User(Name, Surname, NumberID, Grade);
             UserRunNumber++;
         }
