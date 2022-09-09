@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\Week5.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\Week5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\Week5.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\Week5.AssemblyInfo.cs
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\Week5.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\Week5\bin\Debug\net6.0\Week5.exe
+C:\Users\MDT\Desktop\Week5\bin\Debug\net6.0\Week5.deps.json
+C:\Users\MDT\Desktop\Week5\bin\Debug\net6.0\Week5.runtimeconfig.json
+C:\Users\MDT\Desktop\Week5\bin\Debug\net6.0\Week5.dll
+C:\Users\MDT\Desktop\Week5\bin\Debug\net6.0\Week5.pdb
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\Week5.dll
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\refint\Week5.dll
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\Week5.pdb
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\Week5.genruntimeconfig.cache
+C:\Users\MDT\Desktop\Week5\obj\Debug\net6.0\ref\Week5.dll
