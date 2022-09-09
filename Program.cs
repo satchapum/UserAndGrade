@@ -32,7 +32,9 @@ public class Program {
             string Surname = InputSurname();
             string NumberID = InputNumberID();
             float Grade = InputGrade();
-            UserInfo[UserRunNumber] (Name, Surname, NumberID, Grade);
+            UserInfo[UserRunNumber] = new User(Name, Surname, NumberID, Grade);
+            UserRunNumber++;
         }
+
     }
 }
